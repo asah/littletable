@@ -11,3 +11,6 @@ usage
 examples
 ===========
 ...docs go here - see source for now...
+
+	# run the builtin examples
+	python littletable.py
